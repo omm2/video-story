@@ -1,0 +1,9 @@
+video {
+  object-fit: cover;
+  height: 98%;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}

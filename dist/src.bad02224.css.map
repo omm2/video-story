@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACE,gBAAiB,CACjB,UAAW,CACX,UACF,CAEA,QACE,YACF","file":"src.bad02224.css","sourceRoot":"../src","sourcesContent":["video {\n  object-fit: cover;\n  height: 98%;\n  width: 100%;\n}\n\n.hidden {\n  display: none;\n}"]}
